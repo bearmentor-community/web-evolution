@@ -25,7 +25,15 @@ Made by [M Haidar Hanif](https://github.com/mhaidarhanif) from [Catamyst](https:
 - Database: Data persistence
   - Self-host: Prisma ORM & MySQL on PlanetScale
   - Cloud-hosted: Kontenbase vs Nhost
+
+Things to cover with extra time:
+
 - Testing: Checking the expectation of the features
 - Monitoring: Making sure the website/app is running fine
 - Analytics: Tracking the visitors or users
 - Other things to discuss
+
+Things not covered:
+
+- Complex state mangement: Redux, MobX, XState
+
